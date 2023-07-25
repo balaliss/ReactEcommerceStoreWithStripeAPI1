@@ -1,3 +1,9 @@
+# Thank you to /Coopercodes on youtube for the awesome tutorial. 
+
+To go to the original video, please click this link: https://www.youtube.com/watch?v=_8M-YVY76O8&ab_channel=TraversyMedia
+
+To go to coopercodes YouTube: https://www.youtube.com/c/CooperCodes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
